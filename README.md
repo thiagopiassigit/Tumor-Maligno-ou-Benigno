@@ -13,4 +13,4 @@ pip install requirements.txt
 Para rodar execute o arquivo src/programa.py
 
 ## Dados
-Você pode querer visualizar os dados clicando <a href="https://github.com/thiagopiassigit/Laranja-ou-Toranja/blob/main/src/dados.csv">aqui</a>
+Você pode querer visualizar os dados clicando <a href="https://github.com/thiagopiassigit/Tumor-Maligno-ou-Benigno/blob/main/src/dados.csv">aqui</a>
